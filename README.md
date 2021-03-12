@@ -34,3 +34,6 @@ Plik `sample_submission.csv` zawiera przykładowy output Waszych modeli, który 
 Prosty notebook ładujący dane, przepuszczający je przez prosty model i wrzucające je do pliku `sample_submission_2.csv` (nieumieszczone na repo)
 
 ## instrukcja do kaggla
+
+Link: https://www.kaggle.com/t/f81a890cfa014f96920352982f488cab
+Kaggle jest bardzo prosty i przyjemny w obsłudze. Wystarczy założyć konto, wejść w link, pobrać dane (które już macie tu na repo), a gdy przyjdzie wrzucać rozwiązania – wrzucacie plik o takiej strukturze, jaką generuje Wam notebook. Można wrzucać 4 rozwiązania na dobę. Have fun!
