@@ -1,5 +1,5 @@
 # competition_starterkit
-StarterKit na konkursy wewnątrzkołowe (in progress)
+StarterKit na konkursy wewnątrzkołowe, edycja druga
 
 ## konfiguracja środowiska
 
@@ -11,8 +11,6 @@ https://github.com/KNSI-Golem/GolemBootcamp2020 analogicznie jak tutaj, plik `re
 code
 |
 |---data
-|   |---test.csv
-|   |---train.csv
 |
 |---kaggle_output
 |   |---sample_submission.csv
@@ -22,8 +20,7 @@ code
 
 ### data
 
-Csvka `train.csv` zawiera wszystkie dane, z których możecie skorzystać do trenowania Waszych modeli predykcyjnych
-Dane z `test.csv` posłużą jako wejście do Waszych modeli, output z nich musi mieć taki kształt jak w `kaggle_output/sample_submission.csv`
+Tam wrzucacie dane z konkursu, opis jest w konkursie
 
 ### kaggle_output
 
@@ -35,5 +32,5 @@ Prosty notebook ładujący dane, przepuszczający je przez prosty model i wrzuca
 
 ## instrukcja do kaggla
 
-Link: https://www.kaggle.com/t/98004b432a97440da6af12da5c5fb03d
+Link: **tba**
 Kaggle jest bardzo prosty i przyjemny w obsłudze. Wystarczy założyć konto, wejść w link, pobrać dane (które już macie tu na repo), a gdy przyjdzie wrzucać rozwiązania – wrzucacie plik o takiej strukturze, jaką generuje Wam notebook. Można wrzucać 4 rozwiązania na dobę. Have fun!
