@@ -32,5 +32,5 @@ Prosty notebook ładujący dane, przepuszczający je przez prosty model i wrzuca
 
 ## instrukcja do kaggla
 
-Link: **tba**
+Link: https://www.kaggle.com/t/670601b778804dbca4e81d2717080b00
 Kaggle jest bardzo prosty i przyjemny w obsłudze. Wystarczy założyć konto, wejść w link, pobrać dane (które już macie tu na repo), a gdy przyjdzie wrzucać rozwiązania – wrzucacie plik o takiej strukturze, jaką generuje Wam notebook. Można wrzucać 4 rozwiązania na dobę. Have fun!
